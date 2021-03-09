@@ -1,6 +1,24 @@
-# Working-pull-request
+# working
 
-Learn Working pull request
-Add more description because need try pull request with plugin
-I loved cats
-NEw new
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
